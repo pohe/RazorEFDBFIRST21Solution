@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RazorEFDBFIRST21Starter", "RazorEFDBFIRST21Starter\RazorEFDBFIRST21Starter.csproj", "{19DAFD26-CE2B-406A-9CA8-E095580F6946}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DAFD26-CE2B-406A-9CA8-E095580F6946}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DAFD26-CE2B-406A-9CA8-E095580F6946}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DAFD26-CE2B-406A-9CA8-E095580F6946}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DAFD26-CE2B-406A-9CA8-E095580F6946}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6029A4A-9125-4AD6-B99F-D9CF79FDFDFE}
+	EndGlobalSection
+EndGlobal
